@@ -50,3 +50,4 @@ A comprehensive time tracking and project management solution for teams. Track t
 - `npm run dev` - Start dev server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
+- `npm run lint` - Run ESLint
